@@ -1,44 +1,48 @@
-# FPS Labs
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fps-labs-logo-on-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/fps-labs-logo-on-light.svg">
+  <img alt="FPS Labs" src="assets/fps-labs-logo-on-light.svg" width="240">
+</picture>
 
-### Turning movement into meaning.
+# Turning movement into meaning.
 
-We use computer vision to turn sport into data, then data into products that help people play, improve, remember and connect.
+The highlight you want to watch again. The race photo you want to keep. The game you want to understand.
 
-[Explore FPS Labs](https://fpslabs.ai) · [Contact the lab](mailto:support@fpslabs.ai)
+We capture sport frame by frame, find the person, frame the moment, deliver it and analyse it. Our own engineers build the computer vision behind it, in-house.
 
-## What we build
+**FPS means Frames Per Second.** One lab. Different applications.
 
-### BAM
+[Explore the lab](https://fpslabs.ai) · [Talk to us](mailto:support@fpslabs.ai)
 
-Every player's game is seen, shared and celebrated.
+---
 
-BAM brings together the experiences described on our website:
+## 01 / BAM · Padel
 
-- Full games and highlights.
-- Game analysis.
-- Live streaming for friends and fans.
-- VAR replay to settle debates.
-- Leagues, round robins and matchmaking.
-- Highlights and leaderboards at your favourite club.
+### Every player's game seen, shared and celebrated.
 
-Visit [fpslabs.ai](https://fpslabs.ai) for the BAM web app link and current product information.
+Full games and highlights, live streaming for friends and fans, VAR replay, leagues, round robins, matchmaking and club leaderboards.
 
-### SnapRun — coming soon
+**Analytics: coming soon.** Heat maps, shot types and errors.
+
+Visit [fpslabs.ai](https://fpslabs.ai) for current product information and the BAM web app.
+
+## 02 / SnapRun · Race photos
+
+### Cross the line. The photo is already yours.
+
+**Coming soon · working name.**
 
 Race-day capture for marathons. Cameras along the course photograph runners, with the goal of delivering their pictures before the medal does.
 
-## Our focus
+---
 
-We bring technology, movement and community together to build products for players, clubs and fans. Our work connects computer vision with sports video, analysis and race-day photography.
+## The lab
 
-## About this GitHub profile
+We bring technology, movement and community together. FPS Labs is the company and the technology behind the products.
 
-This profile introduces FPS Labs and our products. Product updates and public documentation will be shared here as they become available.
+This GitHub profile introduces the lab. Public documentation and product updates will be shared as they become available.
 
-## Talk to the lab
-
-- Website: [fpslabs.ai](https://fpslabs.ai)
-- Email: [support@fpslabs.ai](mailto:support@fpslabs.ai)
-- Instagram: [@fpslabs.ai](https://www.instagram.com/fpslabs.ai)
+**Talk to the lab.**  
+[Website](https://fpslabs.ai) · [Email](mailto:support@fpslabs.ai) · [Instagram](https://www.instagram.com/fpslabs.ai)
 
 *Making amateurs feel like professionals.*
